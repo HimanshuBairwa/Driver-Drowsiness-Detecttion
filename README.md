@@ -1,5 +1,9 @@
 # Real-Time Driver Drowsiness Detection System
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HimanshuBairwa/Driver-Drowsiness-Detecttion/blob/main/ML_PROJECT.ipynb)
+
+> **🎥 MUST WATCH:** Please check out my **Demo Video** (attached in the releases/issues below), which I recorded myself, to see the real-time drowsiness detection and audio alarm in action!
+
 A computer vision pipeline that detects driver fatigue in real-time. It uses a **MobileNet** transfer-learning binary classifier (Drowsy / Non-Drowsy) trained on face images, deployed in a live webcam loop that tracks consecutive closed-eye frames and plays an audio alarm when drowsiness is detected.
 
 ## Key Features
