@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+opencv-contrib-python
+numpy
+matplotlib
+pillow
+playsound
