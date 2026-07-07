@@ -4,7 +4,7 @@
 
 > **🎥 MUST WATCH:** Please check out my **Demo Video** (attached in the releases/issues below), which I recorded myself, to see the real-time drowsiness detection and audio alarm in action!
 
-<video src="https://github.com/user-attachments/assets/2a1a6a79-7570-4edd-8707-e2f1bebbbdb6" muted autoplay loop controls></video>
+https://github.com/user-attachments/assets/44955e21-161c-451b-b836-7838f0c24f7c
 
 
 A computer vision pipeline that detects driver fatigue in real-time. It uses a **MobileNet** transfer-learning binary classifier (Drowsy / Non-Drowsy) trained on face images, deployed in a live webcam loop that tracks consecutive closed-eye frames and plays an audio alarm when drowsiness is detected.
